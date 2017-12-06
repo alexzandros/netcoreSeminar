@@ -1,0 +1,10 @@
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\obj\Debug\netcoreapp2.0\aplicacionEjemplo1.csproj.CoreCompileInputs.cache
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\obj\Debug\netcoreapp2.0\aplicacionEjemplo1.AssemblyInfoInputs.cache
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\obj\Debug\netcoreapp2.0\aplicacionEjemplo1.AssemblyInfo.cs
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\bin\Debug\netcoreapp2.0\aplicacionEjemplo1.deps.json
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\bin\Debug\netcoreapp2.0\aplicacionEjemplo1.runtimeconfig.json
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\bin\Debug\netcoreapp2.0\aplicacionEjemplo1.runtimeconfig.dev.json
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\bin\Debug\netcoreapp2.0\aplicacionEjemplo1.dll
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\bin\Debug\netcoreapp2.0\aplicacionEjemplo1.pdb
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\obj\Debug\netcoreapp2.0\aplicacionEjemplo1.dll
+C:\Users\carlos\Documents\Personales\developer\dotnetcore\aplicacionEjemplo1\obj\Debug\netcoreapp2.0\aplicacionEjemplo1.pdb
